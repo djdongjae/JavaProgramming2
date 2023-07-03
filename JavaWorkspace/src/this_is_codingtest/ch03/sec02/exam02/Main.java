@@ -18,7 +18,7 @@ public class Main {
             result = Math.max(result, min_value);
         }
 
-        System.out.println(result);
+        System.out.println(result); // 결과 출력
     }
 
 }
