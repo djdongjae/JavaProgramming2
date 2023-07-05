@@ -9,7 +9,7 @@ public class Main {
         int m = sc.nextInt();
         int result = 0;
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) { // 각 줄을 순회하며
             int min_value = 10001;
             for (int j = 0; j < m; j++) {
                 int x = sc.nextInt();
