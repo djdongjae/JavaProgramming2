@@ -13,9 +13,9 @@ public class Main {
             int min_value = 10001;
             for (int j = 0; j < m; j++) {
                 int x = sc.nextInt();
-                min_value = Math.min(min_value, x);
+                min_value = Math.min(min_value, x); // 지역 예선 최소값 팀
             }
-            result = Math.max(result, min_value);
+            result = Math.max(result, min_value); // 전국 본선 최대값 팀
         }
 
         System.out.println(result); // 결과 출력
