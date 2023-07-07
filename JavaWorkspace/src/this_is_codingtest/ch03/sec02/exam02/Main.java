@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
+        int n = sc.nextInt(); // n 입력
         int m = sc.nextInt();
         int result = 0;
 
@@ -15,7 +15,7 @@ public class Main {
                 int x = sc.nextInt();
                 min_value = Math.min(min_value, x); // 지역 예선 최소값 팀
             }
-            result = Math.max(result, min_value); // 전국 본선 최대값 팀
+            result = Math.max(result, min_value); // 전국 본선 최대값
         }
 
         System.out.println(result); // 결과 출력
