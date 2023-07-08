@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4229f8ed-b508-4aa7-8e57-d9af554b7c12" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/techit/sec01/exam01/AbstractCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/techit/sec01/exam01/CarInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/techit/sec01/exam01/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/techit/sec01/exam01/GoCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/techit/sec01/exam01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/techit/sec01/exam01/Road.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/techit/sec01/exam01/SmallCar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -45,13 +53,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.techit.sec01.exam01.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="this_is_codingtest.ch03.sec02.exam02.Main" />
       <module name="JavaWorkspace" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="this_is_codingtest.ch03.sec02.exam02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="techit.sec01.exam01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="techit.sec01.exam01.Main" />
+      <module name="JavaWorkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="techit.sec01.exam01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,25 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="this_is_java.ch09.sec02.exam02.AExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="this_is_java.ch09.sec02.exam02.AExample" />
+    <configuration name="this_is_codingtest.ch03.sec02.exam03.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="this_is_codingtest.ch03.sec02.exam03.Main" />
       <module name="JavaWorkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="this_is_java.ch09.sec02.exam02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="this_is_java.ch09.sec03.exam01.AExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="this_is_java.ch09.sec03.exam01.AExample" />
-      <module name="JavaWorkspace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="this_is_java.ch09.sec03.exam01.*" />
+          <option name="PATTERN" value="this_is_codingtest.ch03.sec02.exam03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.techit.sec01.exam01.Main" />
+        <item itemvalue="Application.this_is_codingtest.ch03.sec02.exam03.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.this_is_java.ch09.sec04.exam02.AExample" />
         <item itemvalue="Application.this_is_codingtest.ch03.sec02.exam01.Main" />
-        <item itemvalue="Application.this_is_java.ch09.sec03.exam01.AExample" />
-        <item itemvalue="Application.this_is_java.ch09.sec02.exam02.AExample" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +150,9 @@
       <workItem from="1688219450421" duration="711000" />
       <workItem from="1688296924928" duration="1705000" />
       <workItem from="1688385099316" duration="667000" />
-      <workItem from="1688539932564" duration="1355000" />
+      <workItem from="1688539932564" duration="1899000" />
+      <workItem from="1688768943944" duration="825000" />
+      <workItem from="1688782341680" duration="2164000" />
     </task>
     <servers />
   </component>
