@@ -4,7 +4,7 @@ import this_is_java.ch09.sec06.exam03.Button;
 
 public class ButtonExample {
     public static void main(String[] args) {
-        Button btnOk = new Button();
+        Button btnOk = new Button(); // 객체 생성
 
         btnOk.setClickListener(new Button.ClickListener() {
             @Override
