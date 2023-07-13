@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4229f8ed-b508-4aa7-8e57-d9af554b7c12" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch11/sec02/exam01/ExceptionHandlingExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch11/sec02/exam02/ExceptionHandlingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch11/sec03/exam01/ExceptionHandlingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch11/sec03/exam02/ExceptionHandlingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch11/sec03/exam03/ExceptionHandlingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch11/sec04/MyResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch11/sec04/TryWithResourceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch11/sec05/ThrowExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch11/sec06/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch11/sec06/InsufficientException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,7 +156,8 @@
       <workItem from="1688992241466" duration="3235000" />
       <workItem from="1689079475873" duration="62000" />
       <workItem from="1689120976578" duration="1443000" />
-      <workItem from="1689138639168" duration="2930000" />
+      <workItem from="1689138639168" duration="2995000" />
+      <workItem from="1689245188234" duration="3448000" />
     </task>
     <servers />
   </component>
