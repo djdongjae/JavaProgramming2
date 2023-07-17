@@ -26,7 +26,7 @@ public class TryWithResourceExample {
             String data1 = res1.read1();
             String data2 = res2.read1();
         } catch (Exception e) {
-            System.out.println("예외 처리: " + e.getMessage());
+            System.out.println("예외 처리: " + e.getMessage()); // 예외 처리
         }
     }
 }

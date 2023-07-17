@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4229f8ed-b508-4aa7-8e57-d9af554b7c12" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/this_is_codingtest/ch11/exam03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/this_is_codingtest/ch11/exam04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch11/sec06/AccountExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/this_is_java/ch11/sec06/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/this_is_java/ch11/sec06/Account.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +48,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.this_is_codingtest.ch11.exam03.Main">
-    <configuration name="ExceptionHandlingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="this_is_java.ch11.sec02.exam02.ExceptionHandlingExample" />
+  <component name="RunManager" selected="Application.AccountExample">
+    <configuration name="AccountExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="this_is_java.ch11.sec06.AccountExample" />
       <module name="JavaWorkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="this_is_java.ch11.sec02.exam02.*" />
+          <option name="PATTERN" value="this_is_java.ch11.sec06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionHandlingExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="this_is_java.ch11.sec02.exam01.ExceptionHandlingExample1" />
+    <configuration name="ExceptionHandlingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="this_is_java.ch11.sec02.exam02.ExceptionHandlingExample" />
       <module name="JavaWorkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="this_is_java.ch11.sec02.exam01.*" />
+          <option name="PATTERN" value="this_is_java.ch11.sec02.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AccountExample" />
         <item itemvalue="Application.this_is_codingtest.ch11.exam03.Main" />
         <item itemvalue="Application.this_is_codingtest.ch11.exam02.Main" />
         <item itemvalue="Application.this_is_java.ch11.sec03.exam01.ExceptionHandlingExample" />
         <item itemvalue="Application.ExceptionHandlingExample" />
-        <item itemvalue="Application.ExceptionHandlingExample1" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +155,10 @@
       <workItem from="1689120976578" duration="1443000" />
       <workItem from="1689138639168" duration="2995000" />
       <workItem from="1689245188234" duration="3448000" />
-      <workItem from="1689290546416" duration="3024000" />
+      <workItem from="1689290546416" duration="3757000" />
+      <workItem from="1689310014986" duration="1855000" />
+      <workItem from="1689313901402" duration="43000" />
+      <workItem from="1689313948113" duration="20000" />
     </task>
     <servers />
   </component>
