@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4229f8ed-b508-4aa7-8e57-d9af554b7c12" name="Changes" comment="" />
+    <list default="true" id="4229f8ed-b508-4aa7-8e57-d9af554b7c12" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec03/exam01/EqualsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec03/exam01/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec03/exam02/HashCodeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec03/exam02/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec03/exam02/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +50,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AccountExample">
+  <component name="RunManager" selected="Application.HashSetExample">
     <configuration name="AccountExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="this_is_java.ch11.sec06.AccountExample" />
       <module name="JavaWorkspace" />
@@ -57,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionHandlingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="this_is_java.ch11.sec02.exam02.ExceptionHandlingExample" />
+    <configuration name="EqualsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="this_is_java.ch12.sec03.exam01.EqualsExample" />
       <module name="JavaWorkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="this_is_java.ch11.sec02.exam02.*" />
+          <option name="PATTERN" value="this_is_java.ch12.sec03.exam01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +77,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="this_is_codingtest.ch11.exam02.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="this_is_codingtest.ch11.exam02.Main" />
+    <configuration name="HashCodeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="this_is_java.ch12.sec03.exam02.HashCodeExample" />
       <module name="JavaWorkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="this_is_codingtest.ch11.exam02.*" />
+          <option name="PATTERN" value="this_is_java.ch12.sec03.exam02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="this_is_java.ch12.sec03.exam02.HashSetExample" />
+      <module name="JavaWorkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="this_is_java.ch12.sec03.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,26 +116,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="this_is_java.ch11.sec03.exam01.ExceptionHandlingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="this_is_java.ch11.sec03.exam01.ExceptionHandlingExample" />
-      <module name="JavaWorkspace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="this_is_java.ch11.sec03.exam01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashSetExample" />
+        <item itemvalue="Application.HashCodeExample" />
+        <item itemvalue="Application.EqualsExample" />
         <item itemvalue="Application.AccountExample" />
         <item itemvalue="Application.this_is_codingtest.ch11.exam03.Main" />
-        <item itemvalue="Application.this_is_codingtest.ch11.exam02.Main" />
-        <item itemvalue="Application.this_is_java.ch11.sec03.exam01.ExceptionHandlingExample" />
-        <item itemvalue="Application.ExceptionHandlingExample" />
       </list>
     </recent_temporary>
   </component>
@@ -155,6 +162,7 @@
       <workItem from="1689313901402" duration="43000" />
       <workItem from="1689313948113" duration="20000" />
       <workItem from="1689581067146" duration="698000" />
+      <workItem from="1689924304821" duration="2457000" />
     </task>
     <servers />
   </component>
