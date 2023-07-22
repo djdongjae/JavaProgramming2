@@ -16,6 +16,6 @@ public class HashSetExample {
 
         Student s3 = new Student(2, "홍길동");
         hashSet.add(s3);
-        System.out.println("저장된 객체 수: " + hashSet.size());
+        System.out.println("저장된 객체 수: " + hashSet.size()); // 번호가 다른 경우
     }
 }
