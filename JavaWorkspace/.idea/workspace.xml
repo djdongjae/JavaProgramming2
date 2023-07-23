@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4229f8ed-b508-4aa7-8e57-d9af554b7c12" name="Changes" comment="" />
+    <list default="true" id="4229f8ed-b508-4aa7-8e57-d9af554b7c12" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec03/exam03/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec03/exam03/ToStringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec03/exam04/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec03/exam04/RecordExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec03/exam05/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec04/ErrExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,41 +36,32 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/dongjae/Desktop/JavaProgramming2/JavaWorkspace/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/dongjae/Desktop/JavaProgramming2/JavaWorkspace/src/Main.java",
+    "settings.editor.selected.configurable": "terminal",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.HashSetExample">
-    <configuration name="AccountExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="this_is_java.ch11.sec06.AccountExample" />
+}]]></component>
+  <component name="RunManager" selected="Application.ErrExample">
+    <configuration name="ErrExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="this_is_java.ch12.sec04.ErrExample" />
       <module name="JavaWorkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="this_is_java.ch11.sec06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EqualsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="this_is_java.ch12.sec03.exam01.EqualsExample" />
-      <module name="JavaWorkspace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="this_is_java.ch12.sec03.exam01.*" />
+          <option name="PATTERN" value="this_is_java.ch12.sec04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +95,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="this_is_codingtest.ch11.exam03.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="this_is_codingtest.ch11.exam03.Main" />
+    <configuration name="RecordExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="this_is_java.ch12.sec03.exam04.RecordExample" />
       <module name="JavaWorkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="this_is_codingtest.ch11.exam03.*" />
+          <option name="PATTERN" value="this_is_java.ch12.sec03.exam04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToStringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="this_is_java.ch12.sec03.exam03.ToStringExample" />
+      <module name="JavaWorkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="this_is_java.ch12.sec03.exam03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ErrExample" />
+        <item itemvalue="Application.RecordExample" />
+        <item itemvalue="Application.ToStringExample" />
         <item itemvalue="Application.HashSetExample" />
         <item itemvalue="Application.HashCodeExample" />
-        <item itemvalue="Application.EqualsExample" />
-        <item itemvalue="Application.AccountExample" />
-        <item itemvalue="Application.this_is_codingtest.ch11.exam03.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +168,8 @@
       <workItem from="1689313948113" duration="20000" />
       <workItem from="1689581067146" duration="698000" />
       <workItem from="1689924304821" duration="2965000" />
+      <workItem from="1690016550253" duration="64000" />
+      <workItem from="1690113814594" duration="2443000" />
     </task>
     <servers />
   </component>
