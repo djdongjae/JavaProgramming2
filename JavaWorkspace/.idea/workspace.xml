@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4229f8ed-b508-4aa7-8e57-d9af554b7c12" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec03/exam03/SmartPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec03/exam03/ToStringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec03/exam04/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec03/exam04/RecordExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec03/exam05/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec04/ErrExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/this_is_codingtest/ch11/exam05/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec05/BytesToStringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec05/StringBuilderExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/this_is_codingtest/ch11/exam04/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/this_is_codingtest/ch11/exam04/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/this_is_java/ch12/sec04/ExitExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec04/ExitExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/this_is_java/ch12/sec04/GetPropertyExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec04/GetPropertyExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/this_is_java/ch12/sec04/InExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec04/InExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/this_is_java/ch12/sec04/MeasureRunTimeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec04/MeasureRunTimeExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,28 +38,41 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/dongjae/Desktop/JavaProgramming2/JavaWorkspace/src/Main.java",
-    "settings.editor.selected.configurable": "terminal",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/dongjae/Desktop/JavaProgramming2/JavaWorkspace/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ErrExample">
-    <configuration name="ErrExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="this_is_java.ch12.sec04.ErrExample" />
+}</component>
+  <component name="RunManager" selected="Application.StringBuilderExample">
+    <configuration name="BytesToStringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="this_is_java.ch12.sec05.BytesToStringExample" />
+      <module name="JavaWorkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="this_is_java.ch12.sec05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetPropertyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="this_is_java.ch12.sec04.GetPropertyExample" />
       <module name="JavaWorkspace" />
       <extension name="coverage">
         <pattern>
@@ -69,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashCodeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="this_is_java.ch12.sec03.exam02.HashCodeExample" />
+    <configuration name="MeasureRunTimeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="this_is_java.ch12.sec04.MeasureRunTimeExample" />
       <module name="JavaWorkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="this_is_java.ch12.sec03.exam02.*" />
+          <option name="PATTERN" value="this_is_java.ch12.sec04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="this_is_java.ch12.sec03.exam02.HashSetExample" />
+    <configuration name="StringBuilderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="this_is_java.ch12.sec05.StringBuilderExample" />
       <module name="JavaWorkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="this_is_java.ch12.sec03.exam02.*" />
+          <option name="PATTERN" value="this_is_java.ch12.sec05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,25 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecordExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="this_is_java.ch12.sec03.exam04.RecordExample" />
+    <configuration name="this_is_codingtest.ch11.exam05.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="this_is_codingtest.ch11.exam05.Main" />
       <module name="JavaWorkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="this_is_java.ch12.sec03.exam04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ToStringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="this_is_java.ch12.sec03.exam03.ToStringExample" />
-      <module name="JavaWorkspace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="this_is_java.ch12.sec03.exam03.*" />
+          <option name="PATTERN" value="this_is_codingtest.ch11.exam05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ErrExample" />
-        <item itemvalue="Application.RecordExample" />
-        <item itemvalue="Application.ToStringExample" />
-        <item itemvalue="Application.HashSetExample" />
-        <item itemvalue="Application.HashCodeExample" />
+        <item itemvalue="Application.StringBuilderExample" />
+        <item itemvalue="Application.BytesToStringExample" />
+        <item itemvalue="Application.this_is_codingtest.ch11.exam05.Main" />
+        <item itemvalue="Application.GetPropertyExample" />
+        <item itemvalue="Application.MeasureRunTimeExample" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +171,12 @@
       <workItem from="1689581067146" duration="698000" />
       <workItem from="1689924304821" duration="2965000" />
       <workItem from="1690016550253" duration="64000" />
-      <workItem from="1690113814594" duration="2443000" />
+      <workItem from="1690113814594" duration="2923000" />
+      <workItem from="1690239749512" duration="1771000" />
+      <workItem from="1690261457169" duration="3555000" />
+      <workItem from="1690325751685" duration="2188000" />
+      <workItem from="1690330679433" duration="37000" />
+      <workItem from="1690345770146" duration="1506000" />
     </task>
     <servers />
   </component>
