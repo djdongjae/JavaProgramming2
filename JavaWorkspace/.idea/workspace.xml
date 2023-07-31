@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4229f8ed-b508-4aa7-8e57-d9af554b7c12" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/this_is_codingtest/ch11/exam05/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec05/BytesToStringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec05/StringBuilderExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/this_is_codingtest/ch11/exam04/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/this_is_codingtest/ch11/exam04/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/this_is_java/ch12/sec04/ExitExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec04/ExitExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/this_is_java/ch12/sec04/GetPropertyExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec04/GetPropertyExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/this_is_java/ch12/sec04/InExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec04/InExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/this_is_java/ch12/sec04/MeasureRunTimeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec04/MeasureRunTimeExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +168,8 @@
       <workItem from="1690261457169" duration="3555000" />
       <workItem from="1690325751685" duration="2188000" />
       <workItem from="1690330679433" duration="37000" />
-      <workItem from="1690345770146" duration="1506000" />
+      <workItem from="1690345770146" duration="1729000" />
+      <workItem from="1690517480519" duration="614000" />
     </task>
     <servers />
   </component>
