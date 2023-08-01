@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4229f8ed-b508-4aa7-8e57-d9af554b7c12" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec06/BoxingUnBoxingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec06/ValueCompareExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec07/MathExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/this_is_java/ch12/sec07/RandomExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +53,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StringBuilderExample">
+  <component name="RunManager" selected="Application.RandomExample">
     <configuration name="BytesToStringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="this_is_java.ch12.sec05.BytesToStringExample" />
       <module name="JavaWorkspace" />
@@ -63,25 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetPropertyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="this_is_java.ch12.sec04.GetPropertyExample" />
+    <configuration name="RandomExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="this_is_java.ch12.sec07.RandomExample" />
       <module name="JavaWorkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="this_is_java.ch12.sec04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MeasureRunTimeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="this_is_java.ch12.sec04.MeasureRunTimeExample" />
-      <module name="JavaWorkspace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="this_is_java.ch12.sec04.*" />
+          <option name="PATTERN" value="this_is_java.ch12.sec07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,6 +86,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="this_is_java.ch12.sec05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValueCompareExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="this_is_java.ch12.sec06.ValueCompareExample" />
+      <module name="JavaWorkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="this_is_java.ch12.sec06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RandomExample" />
+        <item itemvalue="Application.ValueCompareExample" />
         <item itemvalue="Application.StringBuilderExample" />
         <item itemvalue="Application.BytesToStringExample" />
         <item itemvalue="Application.this_is_codingtest.ch11.exam05.Main" />
-        <item itemvalue="Application.GetPropertyExample" />
-        <item itemvalue="Application.MeasureRunTimeExample" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +174,7 @@
       <workItem from="1690330679433" duration="37000" />
       <workItem from="1690345770146" duration="1729000" />
       <workItem from="1690517480519" duration="614000" />
+      <workItem from="1690863280807" duration="2794000" />
     </task>
     <servers />
   </component>
