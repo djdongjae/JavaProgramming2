@@ -33,7 +33,7 @@ public class RandomExample {
         if (result) {
             System.out.println("1등에 당첨되셨습니다.");
         } else {
-            System.out.println("당첨되지 않았습니다.");
+            System.out.println("당첨되지 않았습니다."); // 당첨여부:
         }
     }
 }
