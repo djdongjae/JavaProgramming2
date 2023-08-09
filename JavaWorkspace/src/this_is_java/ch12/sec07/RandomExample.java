@@ -31,7 +31,7 @@ public class RandomExample {
         boolean result = Arrays.equals(selectNumber, winningNumber);
         System.out.print("당첨여부: ");
         if (result) {
-            System.out.println("1등에 당첨되셨습니다.");
+            System.out.println("1등에 당첨되셨습니다."); // 1등 당첨
         } else {
             System.out.println("당첨되지 않았습니다."); // 당첨여부:
         }
