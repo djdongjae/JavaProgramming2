@@ -26,7 +26,6 @@ public class Main {
         System.out.println(optsj2.get());
 
         List<String> it = Arrays.asList("C", "Java", "C++", "Python", "Kotlin");
-        Optional<List<String>>
     }
 }
 
