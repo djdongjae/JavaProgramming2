@@ -1,7 +1,7 @@
 package ch04.sec01.exam01;
 
 import java.util.*;
-// ch04 상하좌우(구현)
+// ch04 구현 110p 상하좌우
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

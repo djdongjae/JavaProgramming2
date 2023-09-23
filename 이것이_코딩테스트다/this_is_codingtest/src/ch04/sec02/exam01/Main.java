@@ -2,7 +2,7 @@ package ch04.sec02.exam01;
 
 import java.util.*;
 
-// chap04 115p 왕실의 나이트
+// chap04 구현 115p 왕실의 나이트
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
