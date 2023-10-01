@@ -1,9 +1,7 @@
 package ch15.sec02.exam02;
 
-import ch14.sec06.exam02.ThreadB;
 import ch15.sec02.exam01.Board;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Vector;
 
