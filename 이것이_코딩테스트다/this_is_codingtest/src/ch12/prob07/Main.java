@@ -2,6 +2,7 @@ package ch12.prob07;
 
 import java.util.Scanner;
 
+// chap12 구현문제 321p 럭키 스트레이트
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
