@@ -31,6 +31,18 @@ public class HashMapExample {
         }
         System.out.println();
 
-        Set<Entry<String, Integer>>
+        Set<Entry<String, Integer>> entrySet = map.entrySet();
+        Iterator<Entry<String, Integer>> entryIterator = entrySet.iterator();
+        while (entryIterator.hasNext()) {
+            Entry<String, Integer> entry = entryIterator.next();
+            String k = entry.getKey();
+            Integer v = entry.getValue();
+            System.out.println(k + " : " + v);
+        }
+        System.out.println();
+
+        map.remove("홍길동");
+        System.out.println("총 Entry 수 : " + map.size());
+        System.out.println();
     }
 }
