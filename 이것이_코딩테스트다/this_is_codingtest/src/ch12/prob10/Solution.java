@@ -7,6 +7,7 @@ package ch12.prob10;
         4. 중앙부분 모두 채워지는 지 검사
 */
 
+// chap12 구현문제 325p 자물쇠와 열쇠
 class Solution {
 
     public static int[][] rotate90(int[][] array) {
