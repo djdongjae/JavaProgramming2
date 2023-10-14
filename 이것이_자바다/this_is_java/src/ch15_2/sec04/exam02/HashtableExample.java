@@ -4,6 +4,7 @@ import java.util.Hashtable;
 import java.util.Map;
 
 public class HashtableExample {
+
     public static void main(String[] args) {
         Map<String, Integer> map = new Hashtable<>();
 
