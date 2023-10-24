@@ -4,6 +4,7 @@ import java.util.Stack;
 
 public class StackExample {
     public static void main(String[] args) {
+        // stack 자료구조 사용
         Stack<Coin> coinBox = new Stack<>();
 
         coinBox.push(new Coin(100));
