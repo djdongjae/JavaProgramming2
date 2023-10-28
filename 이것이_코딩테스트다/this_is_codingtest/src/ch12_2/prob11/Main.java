@@ -2,9 +2,10 @@ package ch12_2.prob11;
 
 import java.util.*;
 
+// 이동 정보를 담는 클래스
 class Move {
-    private int time;
-    private char direction;
+    private int time; // 몇초에
+    private char direction; // 어느 방향으로 이동할 것인가?
 
     public Move(int time, char direction) {
         this.time = time;
