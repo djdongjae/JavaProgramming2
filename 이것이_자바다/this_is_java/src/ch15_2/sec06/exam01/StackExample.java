@@ -7,6 +7,7 @@ public class StackExample {
         // stack 자료구조 사용
         Stack<Coin> coinBox = new Stack<>();
 
+        // Stack 자료구조의 push 메소드
         coinBox.push(new Coin(100));
         coinBox.push(new Coin(50));
         coinBox.push(new Coin(500));
