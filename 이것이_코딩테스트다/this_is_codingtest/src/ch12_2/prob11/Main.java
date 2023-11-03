@@ -21,6 +21,7 @@ class Move {
     }
 }
 
+// 뱀의 위치 정보를 담는 클래스
 class Position {
     private int x;
     private int y;
