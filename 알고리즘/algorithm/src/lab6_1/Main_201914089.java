@@ -2,8 +2,6 @@ package lab6_1;
 
 import java.util.Scanner;
 
-
-
 public class Main_201914089 {
 
     public static void main(String[] args) {
