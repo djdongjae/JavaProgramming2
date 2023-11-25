@@ -26,21 +26,26 @@ public class Main_201914089 {
         int[] dp = new int[amount + 1];  // dp[i]는 금액 i를 만들기 위해 필요한 최소 동전수
         int[] use = new int[amount + 1]; // use[i]는 금액 i를 만들 때 어떤 액면의 동전이 마지막으로 사용되었는지를 나타냄
 
+        // 배열 초기화
         for (int i = 1; i <= amount; i++) {
-            int min = amount + 1;
-            dp[i] = min;   // 금액 i를 만들기 위해 필요한 최소 동전수
-            use[i] = minCoin; // 금액 i를 만들 때 마지막으로 사용된 동전 액면
+            dp[i] = amount + 1;
         }
+        dp[0] = 0; // 0원을 만드는데 필요한 동전 개수는 0개
 
-
+        // 동전 교환 알고리즘 구현
+        for (int i = 1; i <= amount; i++) {
+            for (int coin : coins) {
+                if (i - coin >= 0 && dp[i - coin] + 1 < dp[i]) {
+                    dp[i] = dp[i - coin] + 1;
+                }
+            }
+        }
 
         if (dp[amount] == amount + 1) {  // 나올 수 없는 큰 값이 그대로 저장되어 있으면
             System.out.println("해가 없습니다.");
         } else {
             System.out.println("최소 동전수 = " + dp[amount]);
         }
-
-
 
         // 확인을 위해 자료구조 출력
         for(int i = 0; i < dp.length; i++)
