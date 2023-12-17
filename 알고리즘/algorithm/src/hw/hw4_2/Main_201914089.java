@@ -1,11 +1,11 @@
-package hw4_2;
+package hw.hw4_2;
 
 import java.util.Scanner;
 
 public class Main_201914089 {
 
     public static void main(String[] args) {
-        System.out.println("hw4_2:오동재");
+        System.out.println("hw.hw4_2:오동재");
         Scanner sc = new Scanner(System.in);
 
         // 입력받을 개수인 n 입력

@@ -1,11 +1,11 @@
-package hw5_1;
+package hw.hw5_1;
 
 import java.util.Scanner;
 
 public class Main_201914089 {
     public static void main(String[] args) {
 
-        System.out.println("hw5_1:오동재");
+        System.out.println("hw.hw5_1:오동재");
 
         // 사용자가 원하는 정수 갯수(n)와 n개의 정수값을 입력받아 배열에 저장
         Scanner input = new Scanner(System.in);

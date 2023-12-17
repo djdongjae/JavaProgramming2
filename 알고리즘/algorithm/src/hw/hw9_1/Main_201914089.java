@@ -1,4 +1,4 @@
-package hw9_1;
+package hw.hw9_1;
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ public class Main_201914089 {
 
     public static void main(String[] args) {
 
-        System.out.println("hw9_1:오동재");
+        System.out.println("hw.hw9_1:오동재");
         Scanner scanner = new Scanner(System.in);
 
         // 동전 종류 개수와 n가지 동전 단위를 입력받음

@@ -1,4 +1,4 @@
-package lab6_1;
+package lab.lab6_1;
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ public class Main_201914089 {
 
     public static void main(String[] args) {
 
-        System.out.println("lab6_1:오동재");
+        System.out.println("lab.lab6_1:오동재");
         // (1) 정수 키값을 저장할 공백 이진검색트리 tree를 생성
         MyBinarySearchTree tree = new MyBinarySearchTree();
         // (2) 사용자가 원하는 갯수의 정수 키값을 입력받아 tree에 삽입한 후, tree 출력

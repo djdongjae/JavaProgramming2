@@ -1,8 +1,8 @@
-package lab0_2;
+package lab.lab0_2;
 
 public class Main_201914089 {
     public static void main(String[] args) {
-        System.out.println("lab0_2:오동재");
+        System.out.println("lab.lab0_2:오동재");
         System.out.println(factorial(5));
         System.out.println(sum(5));
         show(5);

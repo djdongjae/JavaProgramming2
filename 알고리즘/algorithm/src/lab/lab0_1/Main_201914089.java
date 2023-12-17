@@ -1,4 +1,4 @@
-package lab0_1;
+package lab.lab0_1;
 
 import java.util.*;
 
@@ -6,7 +6,7 @@ public class Main_201914089 {
 
     public static void main(String[] args) {
 
-        System.out.println("lab0_1:오동재");
+        System.out.println("lab.lab0_1:오동재");
 
 
 

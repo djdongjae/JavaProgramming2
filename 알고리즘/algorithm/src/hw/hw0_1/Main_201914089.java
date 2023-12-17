@@ -1,10 +1,10 @@
-package hw0_1;
+package hw.hw0_1;
 
 import java.util.Scanner;
 
 public class Main_201914089 {
     public static void main(String[] args) {
-        System.out.println("hw0_1:오동재");
+        System.out.println("hw.hw0_1:오동재");
 
         Scanner sc = new Scanner(System.in);
         int ib = sc.nextInt(); // 하한 입력
