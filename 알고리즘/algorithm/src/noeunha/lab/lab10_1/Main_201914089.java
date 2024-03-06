@@ -8,7 +8,7 @@ public class Main_201914089 {
         System.out.println("noeunha.lab.lab10_1:오동재");
         Scanner input = new Scanner(System.in);
 
-// (1) 정점 수를 입력받아 방향 그래프를 생성
+// (1) 정점 수를 입력받아 방향 그래프
         int numVertices = input.nextInt();
         MyGraph graph = new MyGraph(numVertices);
 
