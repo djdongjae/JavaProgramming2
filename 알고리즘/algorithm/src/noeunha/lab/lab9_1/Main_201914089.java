@@ -1,4 +1,4 @@
-package lab.lab9_1;
+package noeunha.lab.lab9_1;
 
 import java.util.Scanner;
 
@@ -8,7 +8,7 @@ public class Main_201914089 {
 
     public static void main(String[] args) {
 
-        System.out.println("lab.lab9_1:오동재");
+        System.out.println("noeunha.lab.lab9_1:오동재");
         Scanner scanner = new Scanner(System.in);
 
         // 동전 종류 개수(n)와 n가지 동전 액면을 입력

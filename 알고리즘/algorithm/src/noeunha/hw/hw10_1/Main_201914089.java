@@ -1,4 +1,4 @@
-package hw.hw10_1;
+package noeunha.hw.hw10_1;
 
 import java.util.Scanner;
 

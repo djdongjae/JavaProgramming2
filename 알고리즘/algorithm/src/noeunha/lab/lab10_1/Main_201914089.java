@@ -1,11 +1,11 @@
-package lab.lab10_1;
+package noeunha.lab.lab10_1;
 
 import java.util.Scanner;
 
 public class Main_201914089 {
 
     public static void main(String[] args) {
-        System.out.println("lab.lab10_1:오동재");
+        System.out.println("noeunha.lab.lab10_1:오동재");
         Scanner input = new Scanner(System.in);
 
 // (1) 정점 수를 입력받아 방향 그래프를 생성
