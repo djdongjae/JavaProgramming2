@@ -32,16 +32,17 @@ public class Main {
         while (!pq.isEmpty()) {
             Node now = pq.poll();
             int index = now.index;
-            if (!visited[index]) continue;
-            for (int i = 0; i < graph.get(index).size(); i++) {
-                Node next = graph.get(index).get(i);
-                int cost = d[index] + next.distance;
-                if (cost < d[next.index]) {
-                    d[next.index] = cost;
-                    pq.offer(new Node(next.index, cost));
+            if (!visited[index]) {
+                for (int i = 0; i < graph.get(index).size(); i++) {
+                    Node next = graph.get(index).get(i);
+                    int cost = d[index] + next.distance;
+                    if (cost < d[next.index]) {
+                        d[next.index] = cost;
+                        pq.offer(new Node(next.index, cost));
+                    }
                 }
+                visited[index] = true;
             }
-            visited[index] = true;
         }
     }
 
@@ -56,7 +57,7 @@ public class Main {
             graph.add(new ArrayList<>());
         }
 
-        for (int i = 0; i <= m; i++) {
+        for (int i = 0; i < m; i++) {
             int u = sc.nextInt();
             int v = sc.nextInt();
             int w = sc.nextInt();
@@ -67,7 +68,9 @@ public class Main {
         start = sc.nextInt();
         end = sc.nextInt();
 
+        dijkstra(start);
 
+        System.out.println(d[end]);
     }
 
 }
